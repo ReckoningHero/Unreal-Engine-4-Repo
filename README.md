@@ -2,6 +2,7 @@
 Projects and Sources materials for Unreal Engine 4.
 
 # Documentation
-In this reponsitory, projects for UE4 are consists of betas and VR examples.
 
--RPG2020 project working
+Project LIsted
+-RPG2020 project working --> 
+-JRPG2020 Untitled --> Japanese Role Playing Game Sample

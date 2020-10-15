@@ -7,4 +7,4 @@ Project Listed
 -----------------
 -RPG2020 project working --> 
 
--JRPG2020 Untitled --> Japanese Role Playing Game Sample
+-JRPG2020 Untitled --> Japanese Role Playing Game
